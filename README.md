@@ -2,9 +2,9 @@
   Bot which provides assistance to customer for choosing a mobile...
   
 ## Team Members
-1.U.Padma Jyothi, padmajyothi@vishnu.edu.in
+1.D.Mamatha, mamatha.d@vishnu.edu.in
 
-2.D.Mamatha, mamatha.d@vishnu.edu.in
+2.U.Padma Jyothi, padmajyothi@vishnu.edu.in
 
 3.V.Lohit Kumar, 19pa1a05i3@vishnu.edu.in
 
